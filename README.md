@@ -8,7 +8,7 @@
 
 
 ## How to install picross on macOS by using Steam
-[1]. Install Steam
+[1]. Install Steam  
 <a href="https://store.steampowered.com/about/" target="_blank">
 	<img src="./images/install_steam_on_macos.png">
 </a>
